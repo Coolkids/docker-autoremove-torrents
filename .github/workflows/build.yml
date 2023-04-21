@@ -1,4 +1,4 @@
-name: Build NAStool Image
+name: Build autoremove-torrents Image
 on:
   workflow_dispatch:
   push:
